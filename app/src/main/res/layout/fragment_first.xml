@@ -3,14 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/purple_200"
+    android:background="@color/black"
     tools:context=".FirstFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="FirstFragment"
+        android:text="First Fragment"
+        android:textAlignment="center"
         android:textColor="@color/white"
         android:textStyle="bold"
         android:textSize="20dp"
